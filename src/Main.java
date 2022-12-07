@@ -3,7 +3,7 @@ public class Main {
 
 
     }
-    /* public static void task1(){
+     public static void task1(){
         System.out.println("Задача 1: ");
         boolean clientOsAndroid = true;
 
@@ -87,5 +87,5 @@ public class Main {
             default:
                 System.out.println("Такого месяца не существует");
         }
-    }*/
+    }
 }
